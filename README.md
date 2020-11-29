@@ -14,4 +14,4 @@
 
 - #### [yaml疑难语法说明](yaml-introduction.md)
 
-- #### [几种常用的重定向<<和管道|的用法](shell-redirection-pipe-usage.md)
+- #### [几种常用的重定向`<<`和管道`|`的用法](shell-redirection-pipe-usage.md)
